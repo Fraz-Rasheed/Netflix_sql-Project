@@ -155,7 +155,9 @@ listed_in ILIKE '%Documentaries%';
  
  SELECT * FROM netflix where
  director IS NULL;
-**15.	13 Finding how many movies actor 'Salman Khan' appeared in last 10 years**
+
+ 
+**15.	 Finding how many movies actor 'Salman Khan' appeared in last 10 years**
 
  	 SELECT * FROM netflix
 	 WHERE 
